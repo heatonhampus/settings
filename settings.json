@@ -1,1 +1,4 @@
-// Empty
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Atom One Dark"
+}
