@@ -7,7 +7,7 @@
     },
     "name": "auto-close-tag",
     "publisher": "formulahendry",
-    "version": "0.5.0"
+    "version": "0.5.1"
   },
   {
     "metadata": {
@@ -31,23 +31,23 @@
   },
   {
     "metadata": {
+      "id": "25e38b8d-ff51-4c34-af36-b7b7961cf666",
+      "publisherId": "90ae8169-db91-4c03-9486-a44796598af0",
+      "publisherDisplayName": "Alexander Krechik"
+    },
+    "name": "cucumberautocomplete",
+    "publisher": "alexkrechik",
+    "version": "2.3.1"
+  },
+  {
+    "metadata": {
       "id": "1ec62ca5-d7f9-4ddb-a882-e8d018c0aefd",
       "publisherId": "ecde0778-6fe5-4f72-93a7-196989f19e58",
       "publisherDisplayName": "Microsoft"
     },
     "name": "debugger-for-chrome",
     "publisher": "msjsdiag",
-    "version": "3.3.0"
-  },
-  {
-    "metadata": {
-      "id": "976eb754-5cd2-4716-82fc-90f201c9ca9d",
-      "publisherId": "c275679e-b425-4b9b-b104-4834a6b840ad",
-      "publisherDisplayName": "Elm"
-    },
-    "name": "elm",
-    "publisher": "sbrink",
-    "version": "0.15.0"
+    "version": "3.3.1"
   },
   {
     "metadata": {
@@ -71,13 +71,23 @@
   },
   {
     "metadata": {
+      "id": "a8b5a31a-0fef-4c94-abd7-1f30bd551762",
+      "publisherId": "49e64850-8d70-45e9-8080-d2d90e66b19d",
+      "publisherDisplayName": "ithildir"
+    },
+    "name": "java-properties",
+    "publisher": "ithildir",
+    "version": "0.0.2"
+  },
+  {
+    "metadata": {
       "id": "5db78037-f674-459f-a236-db622c427c5b",
       "publisherId": "f9e5bc2f-fea1-4075-917f-d83e01e69f56",
       "publisherDisplayName": "Philipp Kief"
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "2.2.1"
+    "version": "2.2.2"
   },
   {
     "metadata": {
@@ -87,7 +97,17 @@
     },
     "name": "Material-theme",
     "publisher": "zhuangtongfa",
-    "version": "2.10.12"
+    "version": "2.10.14"
+  },
+  {
+    "metadata": {
+      "id": "113b22c8-8125-42ec-8c6b-80c3f5d5fa5f",
+      "publisherId": "8f186bac-3651-4797-9216-ba30633f600b",
+      "publisherDisplayName": "IBM"
+    },
+    "name": "output-colorizer",
+    "publisher": "IBM",
+    "version": "0.1.2"
   },
   {
     "metadata": {
@@ -171,12 +191,22 @@
   },
   {
     "metadata": {
+      "id": "6f5d4f30-67aa-4151-80c0-1bbe8ca5f9db",
+      "publisherId": "1dfd9e90-5113-4f41-bfad-a22f8288078e",
+      "publisherDisplayName": "cssho"
+    },
+    "name": "vscode-svgviewer",
+    "publisher": "cssho",
+    "version": "1.4.3"
+  },
+  {
+    "metadata": {
       "id": "9b2c953d-6ad4-46d1-b18e-7e5992d1d8a6",
       "publisherId": "1a680e61-b64e-4eff-bbbb-2085b0618f52",
       "publisherDisplayName": "Mahmoud Ali"
     },
     "name": "vscode-theme-onedark",
     "publisher": "akamud",
-    "version": "2.0.4"
+    "version": "2.0.5"
   }
 ]

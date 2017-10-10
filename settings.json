@@ -1,4 +1,15 @@
 {
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Atom One Dark"
+    "workbench.colorTheme": "Atom One Dark",
+    "sync.gist": "7ac8ab275f8d9a25ac7ee8888aecdc3a",
+    "sync.lastUpload": "2017-09-26T10:45:35.069Z",
+    "sync.autoDownload": true,
+    "sync.autoUpload": true,
+    "sync.lastDownload": "",
+    "sync.forceDownload": false,
+    "sync.anonymousGist": false,
+    "sync.host": "",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.askGistName": false
 }

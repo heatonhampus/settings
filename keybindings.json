@@ -1,1 +1,13 @@
-// Empty
+// Place your key bindings in this file to overwrite the defaults
+[
+    {
+        "key": "ctrl+shift+7",
+        "command": "editor.action.commentLine",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+oem_2",
+        "command": "-editor.action.commentLine",
+        "when": "editorTextFocus && !editorReadonly"
+    }
+]
