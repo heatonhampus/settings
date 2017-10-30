@@ -7,7 +7,7 @@
     },
     "name": "auto-close-tag",
     "publisher": "formulahendry",
-    "version": "0.5.1"
+    "version": "0.5.2"
   },
   {
     "metadata": {
@@ -18,6 +18,16 @@
     "name": "auto-rename-tag",
     "publisher": "formulahendry",
     "version": "0.0.14"
+  },
+  {
+    "metadata": {
+      "id": "819a23e1-b6c6-41cf-9029-e653b537d996",
+      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
+      "publisherDisplayName": "Microsoft"
+    },
+    "name": "azure-account",
+    "publisher": "ms-vscode",
+    "version": "0.1.3"
   },
   {
     "metadata": {
@@ -37,7 +47,7 @@
     },
     "name": "cucumberautocomplete",
     "publisher": "alexkrechik",
-    "version": "2.3.1"
+    "version": "2.4.1"
   },
   {
     "metadata": {
@@ -47,7 +57,17 @@
     },
     "name": "debugger-for-chrome",
     "publisher": "msjsdiag",
-    "version": "3.3.1"
+    "version": "3.4.0"
+  },
+  {
+    "metadata": {
+      "id": "94cd620d-a2c4-4528-9f78-6facd10f45fc",
+      "publisherId": "860cfc30-a674-4fc7-ba96-5285e9e95b75",
+      "publisherDisplayName": "Daniel Cortes"
+    },
+    "name": "FreeMarker",
+    "publisher": "dcortes92",
+    "version": "0.0.9"
   },
   {
     "metadata": {
@@ -61,13 +81,23 @@
   },
   {
     "metadata": {
+      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
+      "publisherId": "678d198b-9b2e-49d3-96ff-6d801c9575df",
+      "publisherDisplayName": "Eric Amodio"
+    },
+    "name": "gitlens",
+    "publisher": "eamodio",
+    "version": "5.7.1"
+  },
+  {
+    "metadata": {
       "id": "7b71fc1b-190d-4f7d-95d1-93e422649b0a",
       "publisherId": "20bf23ac-66a2-4404-9047-4b8215047b8b",
       "publisherDisplayName": "Zignd"
     },
     "name": "html-css-class-completion",
     "publisher": "Zignd",
-    "version": "1.10.0"
+    "version": "1.11.0"
   },
   {
     "metadata": {
@@ -87,7 +117,7 @@
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "2.2.2"
+    "version": "2.2.3"
   },
   {
     "metadata": {
@@ -97,7 +127,7 @@
     },
     "name": "Material-theme",
     "publisher": "zhuangtongfa",
-    "version": "2.10.14"
+    "version": "2.10.17"
   },
   {
     "metadata": {
@@ -131,6 +161,16 @@
   },
   {
     "metadata": {
+      "id": "aae0701b-111f-49c1-9000-abd37a442f28",
+      "publisherId": "9e43bb4e-4318-4e59-b5c2-df1109a963dd",
+      "publisherDisplayName": "Wallaby.js"
+    },
+    "name": "quokka-vscode",
+    "publisher": "WallabyJs",
+    "version": "1.0.72"
+  },
+  {
+    "metadata": {
       "id": "47a8ab1d-bd06-49d1-b8aa-f394596b78dd",
       "publisherId": "9667bc1a-f0d6-4756-b762-ecea1ebff39a",
       "publisherDisplayName": "Iliya Tryapitsin"
@@ -157,7 +197,17 @@
     },
     "name": "stylelint",
     "publisher": "shinnn",
-    "version": "0.29.1"
+    "version": "0.30.0"
+  },
+  {
+    "metadata": {
+      "id": "2f5dd8cb-d251-4d70-abfe-ddebcb077483",
+      "publisherId": "c3b70842-905b-406e-8f5b-153e8de05481",
+      "publisherDisplayName": "Pine Wu"
+    },
+    "name": "vetur",
+    "publisher": "octref",
+    "version": "0.10.1"
   },
   {
     "metadata": {
@@ -167,7 +217,7 @@
     },
     "name": "vscode-docker",
     "publisher": "PeterJausovec",
-    "version": "0.0.18"
+    "version": "0.0.20"
   },
   {
     "metadata": {
@@ -177,7 +227,7 @@
     },
     "name": "vscode-eslint",
     "publisher": "dbaeumer",
-    "version": "1.3.2"
+    "version": "1.4.0"
   },
   {
     "metadata": {
@@ -187,7 +237,7 @@
     },
     "name": "vscode-icons",
     "publisher": "robertohuertasm",
-    "version": "7.14.0"
+    "version": "7.16.0"
   },
   {
     "metadata": {
@@ -207,6 +257,16 @@
     },
     "name": "vscode-theme-onedark",
     "publisher": "akamud",
-    "version": "2.0.5"
+    "version": "2.0.6"
+  },
+  {
+    "metadata": {
+      "id": "25091d5b-da4b-45c3-893e-cb1bd7a27cda",
+      "publisherId": "a17b58ea-6357-4fe4-9eec-004515f9b89b",
+      "publisherDisplayName": "liuji-jim"
+    },
+    "name": "vue",
+    "publisher": "liuji-jim",
+    "version": "0.1.5"
   }
 ]
