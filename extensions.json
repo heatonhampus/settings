@@ -97,7 +97,7 @@
     },
     "name": "html-css-class-completion",
     "publisher": "Zignd",
-    "version": "1.11.0"
+    "version": "1.12.0"
   },
   {
     "metadata": {
@@ -117,7 +117,7 @@
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "2.2.3"
+    "version": "2.2.4"
   },
   {
     "metadata": {
@@ -237,7 +237,7 @@
     },
     "name": "vscode-icons",
     "publisher": "robertohuertasm",
-    "version": "7.16.0"
+    "version": "7.17.0"
   },
   {
     "metadata": {
@@ -268,5 +268,15 @@
     "name": "vue",
     "publisher": "liuji-jim",
     "version": "0.1.5"
+  },
+  {
+    "metadata": {
+      "id": "44152c54-df0e-4281-96be-de2d6ffcfeb0",
+      "publisherId": "24afb8a8-04c6-4064-a780-77c50611ee49",
+      "publisherDisplayName": "sandcastle"
+    },
+    "name": "whitespace",
+    "publisher": "sandcastle",
+    "version": "0.0.4"
   }
 ]
