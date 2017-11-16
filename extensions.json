@@ -2,48 +2,48 @@
   {
     "metadata": {
       "id": "d3836729-9cc1-42c1-b2af-d50071f57d29",
-      "publisherId": "38bbe3f0-5204-4170-845e-c2f966d979b8",
-      "publisherDisplayName": "Jun Han"
+      "publisherId": "formulahendry.auto-close-tag",
+      "publisherDisplayName": "formulahendry"
     },
     "name": "auto-close-tag",
     "publisher": "formulahendry",
-    "version": "0.5.2"
+    "version": "0.5.3"
   },
   {
     "metadata": {
       "id": "6e440e71-8ed9-4f25-bb78-4b13096b8a03",
-      "publisherId": "38bbe3f0-5204-4170-845e-c2f966d979b8",
-      "publisherDisplayName": "Jun Han"
+      "publisherId": "formulahendry.auto-rename-tag",
+      "publisherDisplayName": "formulahendry"
     },
     "name": "auto-rename-tag",
     "publisher": "formulahendry",
-    "version": "0.0.14"
+    "version": "0.0.15"
   },
   {
     "metadata": {
       "id": "819a23e1-b6c6-41cf-9029-e653b537d996",
-      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
-      "publisherDisplayName": "Microsoft"
+      "publisherId": "ms-vscode.azure-account",
+      "publisherDisplayName": "ms-vscode"
     },
     "name": "azure-account",
     "publisher": "ms-vscode",
-    "version": "0.1.3"
+    "version": "0.2.2"
   },
   {
     "metadata": {
       "id": "e337c67b-55c2-4fef-8949-eb260e7fb7fd",
-      "publisherId": "ac3a3342-db76-40ef-9277-4657632d3bfe",
-      "publisherDisplayName": "Shan Khan"
+      "publisherId": "Shan.code-settings-sync",
+      "publisherDisplayName": "Shan"
     },
     "name": "code-settings-sync",
     "publisher": "Shan",
-    "version": "2.8.3"
+    "version": "2.8.5"
   },
   {
     "metadata": {
       "id": "25e38b8d-ff51-4c34-af36-b7b7961cf666",
-      "publisherId": "90ae8169-db91-4c03-9486-a44796598af0",
-      "publisherDisplayName": "Alexander Krechik"
+      "publisherId": "alexkrechik.cucumberautocomplete",
+      "publisherDisplayName": "alexkrechik"
     },
     "name": "cucumberautocomplete",
     "publisher": "alexkrechik",
@@ -52,18 +52,28 @@
   {
     "metadata": {
       "id": "1ec62ca5-d7f9-4ddb-a882-e8d018c0aefd",
-      "publisherId": "ecde0778-6fe5-4f72-93a7-196989f19e58",
-      "publisherDisplayName": "Microsoft"
+      "publisherId": "msjsdiag.debugger-for-chrome",
+      "publisherDisplayName": "msjsdiag"
     },
     "name": "debugger-for-chrome",
     "publisher": "msjsdiag",
-    "version": "3.4.0"
+    "version": "3.5.0"
+  },
+  {
+    "metadata": {
+      "id": "976eb754-5cd2-4716-82fc-90f201c9ca9d",
+      "publisherId": "sbrink.elm",
+      "publisherDisplayName": "sbrink"
+    },
+    "name": "elm",
+    "publisher": "sbrink",
+    "version": "0.15.1"
   },
   {
     "metadata": {
       "id": "94cd620d-a2c4-4528-9f78-6facd10f45fc",
-      "publisherId": "860cfc30-a674-4fc7-ba96-5285e9e95b75",
-      "publisherDisplayName": "Daniel Cortes"
+      "publisherId": "dcortes92.FreeMarker",
+      "publisherDisplayName": "dcortes92"
     },
     "name": "FreeMarker",
     "publisher": "dcortes92",
@@ -72,8 +82,8 @@
   {
     "metadata": {
       "id": "2335b326-c334-4e81-bc51-c408fcec6e7c",
-      "publisherId": "531ba7ca-0230-4a97-bfd1-0d02fdb02958",
-      "publisherDisplayName": "Wade Anderson"
+      "publisherId": "waderyan.gitblame",
+      "publisherDisplayName": "waderyan"
     },
     "name": "gitblame",
     "publisher": "waderyan",
@@ -82,27 +92,27 @@
   {
     "metadata": {
       "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
-      "publisherId": "678d198b-9b2e-49d3-96ff-6d801c9575df",
-      "publisherDisplayName": "Eric Amodio"
+      "publisherId": "eamodio.gitlens",
+      "publisherDisplayName": "eamodio"
     },
     "name": "gitlens",
     "publisher": "eamodio",
-    "version": "5.7.1"
+    "version": "6.1.0"
   },
   {
     "metadata": {
       "id": "7b71fc1b-190d-4f7d-95d1-93e422649b0a",
-      "publisherId": "20bf23ac-66a2-4404-9047-4b8215047b8b",
+      "publisherId": "Zignd.html-css-class-completion",
       "publisherDisplayName": "Zignd"
     },
     "name": "html-css-class-completion",
     "publisher": "Zignd",
-    "version": "1.12.0"
+    "version": "1.14.0"
   },
   {
     "metadata": {
       "id": "a8b5a31a-0fef-4c94-abd7-1f30bd551762",
-      "publisherId": "49e64850-8d70-45e9-8080-d2d90e66b19d",
+      "publisherId": "ithildir.java-properties",
       "publisherDisplayName": "ithildir"
     },
     "name": "java-properties",
@@ -112,27 +122,27 @@
   {
     "metadata": {
       "id": "5db78037-f674-459f-a236-db622c427c5b",
-      "publisherId": "f9e5bc2f-fea1-4075-917f-d83e01e69f56",
-      "publisherDisplayName": "Philipp Kief"
+      "publisherId": "PKief.material-icon-theme",
+      "publisherDisplayName": "PKief"
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "2.2.4"
+    "version": "3.0.0"
   },
   {
     "metadata": {
       "id": "26a529c9-2654-4b95-a63f-02f6a52429e6",
-      "publisherId": "8ae75bda-ec22-4a17-9340-abf1a20beca9",
+      "publisherId": "zhuangtongfa.Material-theme",
       "publisherDisplayName": "zhuangtongfa"
     },
     "name": "Material-theme",
     "publisher": "zhuangtongfa",
-    "version": "2.10.17"
+    "version": "2.10.20"
   },
   {
     "metadata": {
       "id": "113b22c8-8125-42ec-8c6b-80c3f5d5fa5f",
-      "publisherId": "8f186bac-3651-4797-9216-ba30633f600b",
+      "publisherId": "IBM.output-colorizer",
       "publisherDisplayName": "IBM"
     },
     "name": "output-colorizer",
@@ -142,8 +152,8 @@
   {
     "metadata": {
       "id": "a41c1549-4053-44d4-bf30-60fc809b4a86",
-      "publisherId": "a892fb38-060b-475f-9e73-2e06a8a17a68",
-      "publisherDisplayName": "Christian Kohler"
+      "publisherId": "christian-kohler.path-intellisense",
+      "publisherDisplayName": "christian-kohler"
     },
     "name": "path-intellisense",
     "publisher": "christian-kohler",
@@ -152,28 +162,28 @@
   {
     "metadata": {
       "id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
-      "publisherId": "1ba8bd00-2ad1-4be0-a007-5b4b954c1ee7",
-      "publisherDisplayName": "Don Jayamanne"
+      "publisherId": "ms-python.python",
+      "publisherDisplayName": "ms-python"
     },
     "name": "python",
-    "publisher": "donjayamanne",
-    "version": "0.7.0"
+    "publisher": "ms-python",
+    "version": "0.8.0"
   },
   {
     "metadata": {
       "id": "aae0701b-111f-49c1-9000-abd37a442f28",
-      "publisherId": "9e43bb4e-4318-4e59-b5c2-df1109a963dd",
-      "publisherDisplayName": "Wallaby.js"
+      "publisherId": "WallabyJs.quokka-vscode",
+      "publisherDisplayName": "WallabyJs"
     },
     "name": "quokka-vscode",
     "publisher": "WallabyJs",
-    "version": "1.0.72"
+    "version": "1.0.79"
   },
   {
     "metadata": {
       "id": "47a8ab1d-bd06-49d1-b8aa-f394596b78dd",
-      "publisherId": "9667bc1a-f0d6-4756-b762-ecea1ebff39a",
-      "publisherDisplayName": "Iliya Tryapitsin"
+      "publisherId": "itryapitsin.Scala",
+      "publisherDisplayName": "itryapitsin"
     },
     "name": "Scala",
     "publisher": "itryapitsin",
@@ -182,7 +192,7 @@
   {
     "metadata": {
       "id": "85e57fc6-8e21-4402-8e66-af4155fbb5d2",
-      "publisherId": "fc5e9493-6ca3-452b-9e0a-8a9be2be7798",
+      "publisherId": "qinjia.seti-icons",
       "publisherDisplayName": "qinjia"
     },
     "name": "seti-icons",
@@ -192,8 +202,8 @@
   {
     "metadata": {
       "id": "f8b5562e-a2d9-49ab-9f91-e7da91998a92",
-      "publisherId": "253db61f-997d-4722-8120-7559a25856e6",
-      "publisherDisplayName": "Shinnosuke Watanabe"
+      "publisherId": "shinnn.stylelint",
+      "publisherDisplayName": "shinnn"
     },
     "name": "stylelint",
     "publisher": "shinnn",
@@ -202,38 +212,38 @@
   {
     "metadata": {
       "id": "2f5dd8cb-d251-4d70-abfe-ddebcb077483",
-      "publisherId": "c3b70842-905b-406e-8f5b-153e8de05481",
-      "publisherDisplayName": "Pine Wu"
+      "publisherId": "octref.vetur",
+      "publisherDisplayName": "octref"
     },
     "name": "vetur",
     "publisher": "octref",
-    "version": "0.10.1"
+    "version": "0.11.3"
   },
   {
     "metadata": {
       "id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
-      "publisherId": "bc3f1075-3ced-4395-9b1b-3f0ecaee83be",
-      "publisherDisplayName": "Microsoft"
+      "publisherId": "PeterJausovec.vscode-docker",
+      "publisherDisplayName": "PeterJausovec"
     },
     "name": "vscode-docker",
     "publisher": "PeterJausovec",
-    "version": "0.0.20"
+    "version": "0.0.22"
   },
   {
     "metadata": {
       "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
-      "publisherId": "29859a75-d81b-4f0e-8578-2c80ecee6f99",
-      "publisherDisplayName": "Dirk Baeumer"
+      "publisherId": "dbaeumer.vscode-eslint",
+      "publisherDisplayName": "dbaeumer"
     },
     "name": "vscode-eslint",
     "publisher": "dbaeumer",
-    "version": "1.4.0"
+    "version": "1.4.3"
   },
   {
     "metadata": {
       "id": "9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a",
-      "publisherId": "3d894ec1-7c48-4c7d-9d12-9738c4d94db3",
-      "publisherDisplayName": "Roberto Huertas"
+      "publisherId": "robertohuertasm.vscode-icons",
+      "publisherDisplayName": "robertohuertasm"
     },
     "name": "vscode-icons",
     "publisher": "robertohuertasm",
@@ -242,7 +252,7 @@
   {
     "metadata": {
       "id": "6f5d4f30-67aa-4151-80c0-1bbe8ca5f9db",
-      "publisherId": "1dfd9e90-5113-4f41-bfad-a22f8288078e",
+      "publisherId": "cssho.vscode-svgviewer",
       "publisherDisplayName": "cssho"
     },
     "name": "vscode-svgviewer",
@@ -252,17 +262,17 @@
   {
     "metadata": {
       "id": "9b2c953d-6ad4-46d1-b18e-7e5992d1d8a6",
-      "publisherId": "1a680e61-b64e-4eff-bbbb-2085b0618f52",
-      "publisherDisplayName": "Mahmoud Ali"
+      "publisherId": "akamud.vscode-theme-onedark",
+      "publisherDisplayName": "akamud"
     },
     "name": "vscode-theme-onedark",
     "publisher": "akamud",
-    "version": "2.0.6"
+    "version": "2.1.0"
   },
   {
     "metadata": {
       "id": "25091d5b-da4b-45c3-893e-cb1bd7a27cda",
-      "publisherId": "a17b58ea-6357-4fe4-9eec-004515f9b89b",
+      "publisherId": "liuji-jim.vue",
       "publisherDisplayName": "liuji-jim"
     },
     "name": "vue",
@@ -272,7 +282,7 @@
   {
     "metadata": {
       "id": "44152c54-df0e-4281-96be-de2d6ffcfeb0",
-      "publisherId": "24afb8a8-04c6-4064-a780-77c50611ee49",
+      "publisherId": "sandcastle.whitespace",
       "publisherDisplayName": "sandcastle"
     },
     "name": "whitespace",
