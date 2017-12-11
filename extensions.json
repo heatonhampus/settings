@@ -7,7 +7,7 @@
     },
     "name": "auto-close-tag",
     "publisher": "formulahendry",
-    "version": "0.5.3"
+    "version": "0.5.5"
   },
   {
     "metadata": {
@@ -37,7 +37,7 @@
     },
     "name": "code-settings-sync",
     "publisher": "Shan",
-    "version": "2.8.5"
+    "version": "2.8.6"
   },
   {
     "metadata": {
@@ -47,7 +47,7 @@
     },
     "name": "cucumberautocomplete",
     "publisher": "alexkrechik",
-    "version": "2.4.1"
+    "version": "2.5.0"
   },
   {
     "metadata": {
@@ -97,7 +97,7 @@
     },
     "name": "gitlens",
     "publisher": "eamodio",
-    "version": "6.1.0"
+    "version": "6.3.0"
   },
   {
     "metadata": {
@@ -127,7 +127,7 @@
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "3.0.0"
+    "version": "3.1.0"
   },
   {
     "metadata": {
@@ -137,7 +137,7 @@
     },
     "name": "Material-theme",
     "publisher": "zhuangtongfa",
-    "version": "2.10.20"
+    "version": "2.10.23"
   },
   {
     "metadata": {
@@ -177,7 +177,17 @@
     },
     "name": "quokka-vscode",
     "publisher": "WallabyJs",
-    "version": "1.0.79"
+    "version": "1.0.84"
+  },
+  {
+    "metadata": {
+      "id": "e52bce95-a629-455f-8626-e7301b9e372a",
+      "publisherId": "robinbentley.sass-indented",
+      "publisherDisplayName": "robinbentley"
+    },
+    "name": "sass-indented",
+    "publisher": "robinbentley",
+    "version": "1.4.5"
   },
   {
     "metadata": {
@@ -207,7 +217,7 @@
     },
     "name": "stylelint",
     "publisher": "shinnn",
-    "version": "0.30.0"
+    "version": "0.31.0"
   },
   {
     "metadata": {
@@ -247,7 +257,7 @@
     },
     "name": "vscode-icons",
     "publisher": "robertohuertasm",
-    "version": "7.17.0"
+    "version": "7.18.1"
   },
   {
     "metadata": {
@@ -288,5 +298,15 @@
     "name": "whitespace",
     "publisher": "sandcastle",
     "version": "0.0.4"
+  },
+  {
+    "metadata": {
+      "id": "126d3753-1482-4421-afb8-82c43037cbfa",
+      "publisherId": "davidhouchin.whitespace-plus",
+      "publisherDisplayName": "davidhouchin"
+    },
+    "name": "whitespace-plus",
+    "publisher": "davidhouchin",
+    "version": "0.0.5"
   }
 ]

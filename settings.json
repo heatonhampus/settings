@@ -2,7 +2,7 @@
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Atom One Dark",
     "sync.gist": "7ac8ab275f8d9a25ac7ee8888aecdc3a",
-    "sync.lastUpload": "2017-11-01T13:30:03.109Z",
+    "sync.lastUpload": "2017-11-16T09:47:36.204Z",
     "sync.autoDownload": true,
     "sync.autoUpload": true,
     "sync.lastDownload": "2017-10-30T08:26:40.976Z",
@@ -11,5 +11,15 @@
     "sync.host": "",
     "sync.pathPrefix": "",
     "sync.quietSync": false,
-    "sync.askGistName": false
+    "sync.askGistName": false,
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressUpdateNotice": false,
+        "suppressWelcomeNotice": true
+    }
 }
