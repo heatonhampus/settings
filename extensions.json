@@ -37,7 +37,7 @@
     },
     "name": "code-settings-sync",
     "publisher": "Shan",
-    "version": "2.8.6"
+    "version": "2.8.7"
   },
   {
     "metadata": {
@@ -47,7 +47,7 @@
     },
     "name": "cucumberautocomplete",
     "publisher": "alexkrechik",
-    "version": "2.5.0"
+    "version": "2.6.1"
   },
   {
     "metadata": {
@@ -57,7 +57,7 @@
     },
     "name": "debugger-for-chrome",
     "publisher": "msjsdiag",
-    "version": "3.5.0"
+    "version": "4.0.0"
   },
   {
     "metadata": {
@@ -97,7 +97,7 @@
     },
     "name": "gitlens",
     "publisher": "eamodio",
-    "version": "6.3.0"
+    "version": "7.2.0"
   },
   {
     "metadata": {
@@ -107,7 +107,17 @@
     },
     "name": "html-css-class-completion",
     "publisher": "Zignd",
-    "version": "1.14.0"
+    "version": "1.15.0"
+  },
+  {
+    "metadata": {
+      "id": "198a707e-28af-4e84-8610-6e2f628dd12d",
+      "publisherId": "redhat.java",
+      "publisherDisplayName": "redhat"
+    },
+    "name": "java",
+    "publisher": "redhat",
+    "version": "0.16.0"
   },
   {
     "metadata": {
@@ -127,7 +137,7 @@
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "3.1.0"
+    "version": "3.2.1"
   },
   {
     "metadata": {
@@ -137,7 +147,7 @@
     },
     "name": "Material-theme",
     "publisher": "zhuangtongfa",
-    "version": "2.10.23"
+    "version": "2.11.1"
   },
   {
     "metadata": {
@@ -167,7 +177,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "0.8.0"
+    "version": "0.9.1"
   },
   {
     "metadata": {
@@ -177,7 +187,7 @@
     },
     "name": "quokka-vscode",
     "publisher": "WallabyJs",
-    "version": "1.0.84"
+    "version": "1.0.90"
   },
   {
     "metadata": {
@@ -187,7 +197,7 @@
     },
     "name": "sass-indented",
     "publisher": "robinbentley",
-    "version": "1.4.5"
+    "version": "1.4.6"
   },
   {
     "metadata": {
@@ -227,7 +237,7 @@
     },
     "name": "vetur",
     "publisher": "octref",
-    "version": "0.11.3"
+    "version": "0.11.5"
   },
   {
     "metadata": {
@@ -237,7 +247,7 @@
     },
     "name": "vscode-docker",
     "publisher": "PeterJausovec",
-    "version": "0.0.22"
+    "version": "0.0.23"
   },
   {
     "metadata": {
@@ -257,7 +267,27 @@
     },
     "name": "vscode-icons",
     "publisher": "robertohuertasm",
-    "version": "7.18.1"
+    "version": "7.19.0"
+  },
+  {
+    "metadata": {
+      "id": "61fcd0cf-64d7-4836-8d6b-d55f4fb83281",
+      "publisherId": "vscjava.vscode-java-debug",
+      "publisherDisplayName": "vscjava"
+    },
+    "name": "vscode-java-debug",
+    "publisher": "vscjava",
+    "version": "0.5.0"
+  },
+  {
+    "metadata": {
+      "id": "96f11e1f-1a46-4592-b084-f025b2c2a81f",
+      "publisherId": "vscjava.vscode-java-pack",
+      "publisherDisplayName": "vscjava"
+    },
+    "name": "vscode-java-pack",
+    "publisher": "vscjava",
+    "version": "0.2.0"
   },
   {
     "metadata": {
