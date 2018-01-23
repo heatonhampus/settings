@@ -27,7 +27,7 @@
     },
     "name": "azure-account",
     "publisher": "ms-vscode",
-    "version": "0.2.2"
+    "version": "0.3.0"
   },
   {
     "metadata": {
@@ -47,7 +47,7 @@
     },
     "name": "cucumberautocomplete",
     "publisher": "alexkrechik",
-    "version": "2.6.1"
+    "version": "2.7.1"
   },
   {
     "metadata": {
@@ -97,7 +97,7 @@
     },
     "name": "gitlens",
     "publisher": "eamodio",
-    "version": "7.2.0"
+    "version": "7.5.6"
   },
   {
     "metadata": {
@@ -107,17 +107,7 @@
     },
     "name": "html-css-class-completion",
     "publisher": "Zignd",
-    "version": "1.15.0"
-  },
-  {
-    "metadata": {
-      "id": "198a707e-28af-4e84-8610-6e2f628dd12d",
-      "publisherId": "redhat.java",
-      "publisherDisplayName": "redhat"
-    },
-    "name": "java",
-    "publisher": "redhat",
-    "version": "0.16.0"
+    "version": "1.16.1"
   },
   {
     "metadata": {
@@ -147,7 +137,7 @@
     },
     "name": "Material-theme",
     "publisher": "zhuangtongfa",
-    "version": "2.11.1"
+    "version": "2.12.2"
   },
   {
     "metadata": {
@@ -187,7 +177,7 @@
     },
     "name": "quokka-vscode",
     "publisher": "WallabyJs",
-    "version": "1.0.90"
+    "version": "1.0.93"
   },
   {
     "metadata": {
@@ -227,7 +217,7 @@
     },
     "name": "stylelint",
     "publisher": "shinnn",
-    "version": "0.31.0"
+    "version": "0.32.0"
   },
   {
     "metadata": {
@@ -237,7 +227,7 @@
     },
     "name": "vetur",
     "publisher": "octref",
-    "version": "0.11.5"
+    "version": "0.11.6"
   },
   {
     "metadata": {
@@ -257,7 +247,7 @@
     },
     "name": "vscode-eslint",
     "publisher": "dbaeumer",
-    "version": "1.4.3"
+    "version": "1.4.4"
   },
   {
     "metadata": {
