@@ -57,7 +57,7 @@
     },
     "name": "debugger-for-chrome",
     "publisher": "msjsdiag",
-    "version": "4.0.0"
+    "version": "4.1.0"
   },
   {
     "metadata": {
@@ -97,7 +97,7 @@
     },
     "name": "gitlens",
     "publisher": "eamodio",
-    "version": "7.5.6"
+    "version": "7.5.7"
   },
   {
     "metadata": {
@@ -127,7 +127,7 @@
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "3.2.1"
+    "version": "3.2.2"
   },
   {
     "metadata": {
@@ -177,7 +177,7 @@
     },
     "name": "quokka-vscode",
     "publisher": "WallabyJs",
-    "version": "1.0.93"
+    "version": "1.0.94"
   },
   {
     "metadata": {
@@ -227,7 +227,7 @@
     },
     "name": "vetur",
     "publisher": "octref",
-    "version": "0.11.6"
+    "version": "0.11.7"
   },
   {
     "metadata": {
