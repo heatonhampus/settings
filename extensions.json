@@ -7,7 +7,7 @@
     },
     "name": "auto-close-tag",
     "publisher": "formulahendry",
-    "version": "0.5.5"
+    "version": "0.5.6"
   },
   {
     "metadata": {
@@ -27,7 +27,7 @@
     },
     "name": "azure-account",
     "publisher": "ms-vscode",
-    "version": "0.3.0"
+    "version": "0.3.1"
   },
   {
     "metadata": {
@@ -47,7 +47,7 @@
     },
     "name": "cucumberautocomplete",
     "publisher": "alexkrechik",
-    "version": "2.7.1"
+    "version": "2.8.0"
   },
   {
     "metadata": {
@@ -67,7 +67,7 @@
     },
     "name": "elm",
     "publisher": "sbrink",
-    "version": "0.15.1"
+    "version": "0.16.0"
   },
   {
     "metadata": {
@@ -97,7 +97,7 @@
     },
     "name": "gitlens",
     "publisher": "eamodio",
-    "version": "7.5.7"
+    "version": "8.0.0"
   },
   {
     "metadata": {
@@ -107,7 +107,17 @@
     },
     "name": "html-css-class-completion",
     "publisher": "Zignd",
-    "version": "1.16.1"
+    "version": "1.17.1"
+  },
+  {
+    "metadata": {
+      "id": "198a707e-28af-4e84-8610-6e2f628dd12d",
+      "publisherId": "redhat.java",
+      "publisherDisplayName": "redhat"
+    },
+    "name": "java",
+    "publisher": "redhat",
+    "version": "0.19.0"
   },
   {
     "metadata": {
@@ -127,7 +137,7 @@
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "3.2.2"
+    "version": "3.2.3"
   },
   {
     "metadata": {
@@ -137,7 +147,17 @@
     },
     "name": "Material-theme",
     "publisher": "zhuangtongfa",
-    "version": "2.12.2"
+    "version": "2.12.6"
+  },
+  {
+    "metadata": {
+      "id": "b2382675-551b-476b-b37b-cc4961292ec2",
+      "publisherId": "digitalstreamio.mjml-syntax",
+      "publisherDisplayName": "digitalstreamio"
+    },
+    "name": "mjml-syntax",
+    "publisher": "digitalstreamio",
+    "version": "0.0.1"
   },
   {
     "metadata": {
@@ -167,7 +187,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "0.9.1"
+    "version": "2018.1.0"
   },
   {
     "metadata": {
@@ -177,7 +197,7 @@
     },
     "name": "quokka-vscode",
     "publisher": "WallabyJs",
-    "version": "1.0.94"
+    "version": "1.0.108"
   },
   {
     "metadata": {
@@ -187,7 +207,7 @@
     },
     "name": "sass-indented",
     "publisher": "robinbentley",
-    "version": "1.4.6"
+    "version": "1.4.8"
   },
   {
     "metadata": {
@@ -217,7 +237,7 @@
     },
     "name": "stylelint",
     "publisher": "shinnn",
-    "version": "0.32.0"
+    "version": "0.33.0"
   },
   {
     "metadata": {
@@ -237,7 +257,7 @@
     },
     "name": "vscode-docker",
     "publisher": "PeterJausovec",
-    "version": "0.0.23"
+    "version": "0.0.24"
   },
   {
     "metadata": {
@@ -247,7 +267,7 @@
     },
     "name": "vscode-eslint",
     "publisher": "dbaeumer",
-    "version": "1.4.4"
+    "version": "1.4.7"
   },
   {
     "metadata": {
@@ -257,7 +277,7 @@
     },
     "name": "vscode-icons",
     "publisher": "robertohuertasm",
-    "version": "7.19.0"
+    "version": "7.20.0"
   },
   {
     "metadata": {
@@ -267,7 +287,7 @@
     },
     "name": "vscode-java-debug",
     "publisher": "vscjava",
-    "version": "0.5.0"
+    "version": "0.6.0"
   },
   {
     "metadata": {
@@ -277,7 +297,37 @@
     },
     "name": "vscode-java-pack",
     "publisher": "vscjava",
-    "version": "0.2.0"
+    "version": "0.3.0"
+  },
+  {
+    "metadata": {
+      "id": "67c06b0d-1891-42ca-b2a8-113e79bff069",
+      "publisherId": "vscjava.vscode-java-test",
+      "publisherDisplayName": "vscjava"
+    },
+    "name": "vscode-java-test",
+    "publisher": "vscjava",
+    "version": "0.3.0"
+  },
+  {
+    "metadata": {
+      "id": "b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312",
+      "publisherId": "vscjava.vscode-maven",
+      "publisherDisplayName": "vscjava"
+    },
+    "name": "vscode-maven",
+    "publisher": "vscjava",
+    "version": "0.5.2"
+  },
+  {
+    "metadata": {
+      "id": "efc33846-2498-43d7-9699-47d0a7741345",
+      "publisherId": "attilabuti.vscode-mjml",
+      "publisherDisplayName": "attilabuti"
+    },
+    "name": "vscode-mjml",
+    "publisher": "attilabuti",
+    "version": "0.1.0"
   },
   {
     "metadata": {

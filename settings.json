@@ -2,7 +2,7 @@
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Atom One Dark",
     "sync.gist": "7ac8ab275f8d9a25ac7ee8888aecdc3a",
-    "sync.lastUpload": "2018-01-31T09:48:16.143Z",
+    "sync.lastUpload": "2018-01-31T11:41:22.697Z",
     "sync.autoDownload": true,
     "sync.autoUpload": true,
     "sync.lastDownload": "2017-10-30T08:26:40.976Z",
@@ -22,5 +22,5 @@
         "suppressUpdateNotice": false,
         "suppressWelcomeNotice": true
     },
-    "window.zoomLevel": 0
+    "window.zoomLevel": -2
 }
