@@ -2,7 +2,7 @@
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Atom One Dark",
     "sync.gist": "7ac8ab275f8d9a25ac7ee8888aecdc3a",
-    "sync.lastUpload": "2018-03-02T12:58:25.091Z",
+    "sync.lastUpload": "2018-03-02T12:58:33.131Z",
     "sync.autoDownload": true,
     "sync.autoUpload": true,
     "sync.lastDownload": "2017-10-30T08:26:40.976Z",
@@ -22,5 +22,6 @@
         "suppressUpdateNotice": false,
         "suppressWelcomeNotice": true
     },
-    "window.zoomLevel": 0
+    "window.zoomLevel": 0,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
 }

@@ -37,7 +37,7 @@
     },
     "name": "code-settings-sync",
     "publisher": "Shan",
-    "version": "2.8.7"
+    "version": "2.9.0"
   },
   {
     "metadata": {
@@ -97,7 +97,7 @@
     },
     "name": "gitlens",
     "publisher": "eamodio",
-    "version": "8.0.0"
+    "version": "8.0.2"
   },
   {
     "metadata": {
@@ -117,7 +117,7 @@
     },
     "name": "java",
     "publisher": "redhat",
-    "version": "0.19.0"
+    "version": "0.20.0"
   },
   {
     "metadata": {
@@ -147,7 +147,7 @@
     },
     "name": "Material-theme",
     "publisher": "zhuangtongfa",
-    "version": "2.12.6"
+    "version": "2.12.7"
   },
   {
     "metadata": {
@@ -197,7 +197,7 @@
     },
     "name": "quokka-vscode",
     "publisher": "WallabyJs",
-    "version": "1.0.108"
+    "version": "1.0.109"
   },
   {
     "metadata": {
@@ -257,7 +257,7 @@
     },
     "name": "vscode-docker",
     "publisher": "PeterJausovec",
-    "version": "0.0.24"
+    "version": "0.0.25"
   },
   {
     "metadata": {
