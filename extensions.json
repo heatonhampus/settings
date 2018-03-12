@@ -97,7 +97,7 @@
     },
     "name": "gitlens",
     "publisher": "eamodio",
-    "version": "8.0.2"
+    "version": "8.1.0"
   },
   {
     "metadata": {
@@ -147,7 +147,7 @@
     },
     "name": "Material-theme",
     "publisher": "zhuangtongfa",
-    "version": "2.12.7"
+    "version": "2.13.0"
   },
   {
     "metadata": {
@@ -187,7 +187,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2018.1.0"
+    "version": "2018.2.0"
   },
   {
     "metadata": {
@@ -197,7 +197,7 @@
     },
     "name": "quokka-vscode",
     "publisher": "WallabyJs",
-    "version": "1.0.109"
+    "version": "1.0.112"
   },
   {
     "metadata": {
@@ -237,7 +237,7 @@
     },
     "name": "stylelint",
     "publisher": "shinnn",
-    "version": "0.33.0"
+    "version": "0.34.0"
   },
   {
     "metadata": {
@@ -307,7 +307,7 @@
     },
     "name": "vscode-java-test",
     "publisher": "vscjava",
-    "version": "0.3.0"
+    "version": "0.4.0"
   },
   {
     "metadata": {
@@ -327,7 +327,7 @@
     },
     "name": "vscode-mjml",
     "publisher": "attilabuti",
-    "version": "0.1.0"
+    "version": "1.0.0"
   },
   {
     "metadata": {
