@@ -27,7 +27,7 @@
     },
     "name": "azure-account",
     "publisher": "ms-vscode",
-    "version": "0.3.3"
+    "version": "0.4.0"
   },
   {
     "metadata": {
@@ -47,7 +47,7 @@
     },
     "name": "cucumberautocomplete",
     "publisher": "alexkrechik",
-    "version": "2.9.0"
+    "version": "2.10.0"
   },
   {
     "metadata": {
@@ -57,7 +57,7 @@
     },
     "name": "debugger-for-chrome",
     "publisher": "msjsdiag",
-    "version": "4.2.2"
+    "version": "4.3.0"
   },
   {
     "metadata": {
@@ -87,7 +87,7 @@
     },
     "name": "gitblame",
     "publisher": "waderyan",
-    "version": "2.4.0"
+    "version": "2.4.2"
   },
   {
     "metadata": {
@@ -97,7 +97,7 @@
     },
     "name": "gitlens",
     "publisher": "eamodio",
-    "version": "8.1.1"
+    "version": "8.2.4"
   },
   {
     "metadata": {
@@ -117,7 +117,7 @@
     },
     "name": "java",
     "publisher": "redhat",
-    "version": "0.21.0"
+    "version": "0.23.0"
   },
   {
     "metadata": {
@@ -147,7 +147,7 @@
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "3.2.6"
+    "version": "3.3.0"
   },
   {
     "metadata": {
@@ -207,7 +207,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2018.2.1"
+    "version": "2018.3.1"
   },
   {
     "metadata": {
@@ -217,7 +217,7 @@
     },
     "name": "quokka-vscode",
     "publisher": "WallabyJs",
-    "version": "1.0.116"
+    "version": "1.0.121"
   },
   {
     "metadata": {
@@ -227,7 +227,7 @@
     },
     "name": "sass-indented",
     "publisher": "robinbentley",
-    "version": "1.4.8"
+    "version": "1.4.9"
   },
   {
     "metadata": {
@@ -257,7 +257,7 @@
     },
     "name": "stylelint",
     "publisher": "shinnn",
-    "version": "0.35.0"
+    "version": "0.36.0"
   },
   {
     "metadata": {
@@ -297,7 +297,7 @@
     },
     "name": "vscode-docker",
     "publisher": "PeterJausovec",
-    "version": "0.0.25"
+    "version": "0.0.26"
   },
   {
     "metadata": {
@@ -321,13 +321,23 @@
   },
   {
     "metadata": {
+      "id": "6bbe51e6-80e5-4553-a50e-46b71bb46284",
+      "publisherId": "yaozheng.vscode-java-copilot",
+      "publisherDisplayName": "yaozheng"
+    },
+    "name": "vscode-java-copilot",
+    "publisher": "yaozheng",
+    "version": "0.1.4"
+  },
+  {
+    "metadata": {
       "id": "61fcd0cf-64d7-4836-8d6b-d55f4fb83281",
       "publisherId": "vscjava.vscode-java-debug",
       "publisherDisplayName": "vscjava"
     },
     "name": "vscode-java-debug",
     "publisher": "vscjava",
-    "version": "0.7.0"
+    "version": "0.8.0"
   },
   {
     "metadata": {
@@ -347,7 +357,7 @@
     },
     "name": "vscode-java-test",
     "publisher": "vscjava",
-    "version": "0.4.0"
+    "version": "0.5.0"
   },
   {
     "metadata": {
@@ -357,7 +367,7 @@
     },
     "name": "vscode-markdownlint",
     "publisher": "DavidAnson",
-    "version": "0.14.1"
+    "version": "0.15.0"
   },
   {
     "metadata": {
@@ -367,7 +377,7 @@
     },
     "name": "vscode-maven",
     "publisher": "vscjava",
-    "version": "0.6.0"
+    "version": "0.7.0"
   },
   {
     "metadata": {
@@ -377,7 +387,7 @@
     },
     "name": "vscode-mjml",
     "publisher": "attilabuti",
-    "version": "1.2.0"
+    "version": "1.2.1"
   },
   {
     "metadata": {
@@ -438,5 +448,15 @@
     "name": "whitespace-plus",
     "publisher": "davidhouchin",
     "version": "0.0.5"
+  },
+  {
+    "metadata": {
+      "id": "0cb81da2-1880-4755-9995-0ae9cc728e20",
+      "publisherId": "DotJoshJohnson.xml",
+      "publisherDisplayName": "DotJoshJohnson"
+    },
+    "name": "xml",
+    "publisher": "DotJoshJohnson",
+    "version": "1.9.2"
   }
 ]
